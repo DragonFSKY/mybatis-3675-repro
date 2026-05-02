@@ -1,0 +1,26 @@
+[
+  {
+    "name": "org.apache.ibatis.logging.slf4j.Slf4jImpl",
+    "methods": [{ "name": "<init>", "parameterTypes": ["java.lang.String"] }]
+  },
+  {
+    "name": "org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl",
+    "methods": [{ "name": "<init>", "parameterTypes": ["java.lang.String"] }]
+  },
+  {
+    "name": "org.apache.ibatis.logging.log4j2.Log4j2Impl",
+    "methods": [{ "name": "<init>", "parameterTypes": ["java.lang.String"] }]
+  },
+  {
+    "name": "org.apache.ibatis.logging.log4j.Log4jImpl",
+    "methods": [{ "name": "<init>", "parameterTypes": ["java.lang.String"] }]
+  },
+  {
+    "name": "org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl",
+    "methods": [{ "name": "<init>", "parameterTypes": ["java.lang.String"] }]
+  },
+  {
+    "name": "org.apache.ibatis.logging.nologging.NoLoggingImpl",
+    "methods": [{ "name": "<init>", "parameterTypes": ["java.lang.String"] }]
+  }
+]
